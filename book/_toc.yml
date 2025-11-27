@@ -17,6 +17,7 @@ parts:
     - file: exercises.md
       sections:
       - file: exercises/001.md
+      - file: book/extension_exercises/mmp-test
       - file: exercises/002.md
       - file: exercises/003.md
       - file: exercises/004.md
