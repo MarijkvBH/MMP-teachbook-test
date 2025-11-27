@@ -17,7 +17,6 @@ parts:
     - file: exercises.md
       sections:
       - file: exercises/001.md
-      - file: extension_exercises/mmp-test.md
       - file: exercises/002.md
       - file: exercises/003.md
       - file: exercises/004.md
@@ -41,6 +40,7 @@ parts:
       - file: extension_exercises/014.md
       - file: extension_exercises/015.md
       - file: extension_exercises/016.md
+      - file: extension_exercises/mmp-test.md
   - caption: Miscellaneous
     chapters:
     - file: references.md
