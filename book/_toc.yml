@@ -1,4 +1,4 @@
-# Configuration of _toc.yml file is explained in detail here: https://jupyterbook.org/en/stable/structure/toc.html and https://sphinx-external-toc.readthedocs.io/en/latest/user_guide/sphinx.html
+ten# Configuration of _toc.yml file is explained in detail here: https://jupyterbook.org/en/stable/structure/toc.html and https://sphinx-external-toc.readthedocs.io/en/latest/user_guide/sphinx.html
 
 format: jb-book
 root: intro.md
@@ -17,7 +17,7 @@ parts:
     - file: exercises.md
       sections:
       - file: exercises/001.md
-      - file: exercises/mmp-test.md
+      - file: extension_exercises/mmp-test.md
       - file: exercises/002.md
       - file: exercises/003.md
       - file: exercises/004.md
